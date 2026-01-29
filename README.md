@@ -66,23 +66,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surbhi1us&show_icons=true&theme=omni" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=surbhi1us&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surbhi1us&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi1us&layout=compact&theme=omni" />
+  <img src="https://streak-stats.demolab.com?user=surbhi1us&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhi1us&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surbhi1us&theme=omni&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=surbhi1us&theme=tokyonight&no-frame=true" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=surbhi1us&icon=3&color=11"/>
-</p>
